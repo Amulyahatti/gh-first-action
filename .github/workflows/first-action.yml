@@ -1,5 +1,5 @@
 name: FirstWorkflow
-on: Workflow-dispatcher
+on: workflow-dispatcher
 jobs:
   first-job:
     runs-on: ubuntu-20.04
